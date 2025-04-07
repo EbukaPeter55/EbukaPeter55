@@ -47,7 +47,7 @@ _(More experience available on my LinkedIn & portfolio!)_
 --- https://www.linkedin.com/in/ebuka-peter/
 
 ## 🏗️ What I do for fun
-🎉 I do engage in singing both classicals and contemporary music, play the piano, watch football and hang out.
+🎉 I do engage in singing both classicals and contemporary music, play the piano, hit the gym, watch football and hang out.
 
 
 ## 📢 Let's Connect

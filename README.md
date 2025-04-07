@@ -12,7 +12,7 @@ I'm a frontend engineer passionate about building scalable, high-performance web
 ---
 
 ## 🔧 Tech Stack & Expertise
-- **Languages & Frameworks:** JavaScript (Expert), TypeScript (Expert), React.js (Expert), Angular (Expert), Next.js (Intermediate)
+- **Languages & Frameworks:** JavaScript (Expert), TypeScript (Expert), React.js (Expert), Angular (Expert), Next.js (Intermediate), Nodejs, React Native, Android native development with Java (Fundamental-Intermediate)
 - **UI/UX:** CSS/SCSS (Expert), Figma (Expert), Adobe Illustrator, Bootstrap (Expert), Tailwind CSS (Expert), Chakra UI (Expert)
 - **Testing:** Jest (Intermediate), Cypress (Intermediate), React Testing Library (Intermediate)
 - **DevOps & Tools:** Git (Expert), Docker (Intermediate), AWS (S3, EC2) (Intermediate), CI/CD (Vercel, Netlify, Jenkins)

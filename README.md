@@ -21,11 +21,13 @@ I'm a frontend engineer passionate about building scalable, high-performance web
 ---
 
 ## 💼 Work Experience
-### **Senior Software Frontend Developer (React/Angular) - Interswitch Group (Systegra)**  
-🛠️ Built and maintained **Smart Trade Web App** used by major banks (UBA & First Bank)  
-💰 Developed the **Letter of Credit Module**, increasing income by 30%  
+### **Senior Software Frontend Engineer-Consultant (React) - Interswitch Group (Systegra Limited)**  
+🛠️ Collaborated with other engineers to build and maintain **Smart Trade Web App** used by major banks (UBA & First Bank)  
+💰 Developed the **Letter of Credit Module**, increasing income by 25%  
 ✅ Implemented unit testing with Jest to ensure bug-free features, improving performance by 70%  
 
+### **Senior Software Frontend Engineer- Full time (Angular) - Systemspecs Group (Human Manager Limited)**  
+🛠️ Collaborating with other engineers to build and maintain the Human Manager application.
 🔗 [Human Manager web app](https://humanmanager.net/)
 
 ### **Senior React Engineer - Zerotech Agency**  
@@ -42,7 +44,11 @@ I'm a frontend engineer passionate about building scalable, high-performance web
 
 _(More experience available on my LinkedIn & portfolio!)_
 
----
+--- https://www.linkedin.com/in/ebuka-peter/
+
+## 🏗️ What I do for fun
+🎉 I do engage in singing both classicals and contemporary music, play the piano, watch football and hang out.
+
 
 ## 📢 Let's Connect
 - 🌐 Portfolio: [www.ebukapeter.com](https://www.ebukapeter.com)

@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Onyebinamma Ebuka Peter
 
-🚀 **Engineering Tech Lead | Senior Software Frontend Engineer** | **10+ years coding experience** | **6 years industry experience**
+🚀 **Engineering Tech Lead | Senior Software Frontend Engineer** | **9 years coding experience** | **6 years industry experience**
 
 I'm a Software engineer passionate about building scalable, high-performance web applications with an intuitive user experience. Over the years, I've worked with both small and large teams (up to 500 members) across multiple projects used globally. I thrive in both remote and office environments, consistently delivering impactful solutions.
 
